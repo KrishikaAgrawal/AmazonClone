@@ -252,6 +252,15 @@ table {
     font-size: 21px;
 }
 
+@media(max-width: 1240px){
+    .box{
+        width: 29%;
+    }
+    .shop-section{
+        min-width: 1010px;  
+    }
+}
+
 /* footer */
 
 .footer{    
